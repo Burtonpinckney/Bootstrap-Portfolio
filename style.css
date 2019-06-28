@@ -1,0 +1,28 @@
+body {
+    background-color: lightgrey;
+}
+
+.navbar-brand {
+    background-color: turquoise;
+    padding: 10px;
+    color: white;
+}
+
+.card {
+    margin-top: 15px;
+    width: 66%;
+    height: 350px; 
+}
+
+.footer {
+    display: block;
+    text-align: center;
+    background-color: darkgrey;
+    border-top: 90px;
+    border-top-color: turquoise;
+    height: 45px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
