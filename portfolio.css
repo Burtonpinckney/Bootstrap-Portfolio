@@ -26,14 +26,15 @@ body {
   .column {
     flex: 25%;
     max-width: 25%;
-    padding: 0 4px;
+    padding: 0 10px;
   }
   
   .column img {
     margin-top: 8px;
     vertical-align: middle;
-    width: 95%;
+    width: 100%;
     height: 80%;
+    
   }
   
   @media screen and (max-width: 800px) {
@@ -61,4 +62,15 @@ body {
     left: 0px;
     right: 0px;
     bottom: 0px;
+}
+
+.portlabel {
+  position: relative;
+  bottom: 60px;
+  text-align: center;
+  background-color: red;
+  color: white;
+}
+.portimage {
+  width: 100%;
 }
