@@ -1,6 +1,7 @@
 body {
     background-image: url(Images/MarshLucky.jpg);
-    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
 }
 
 .navbar-brand {

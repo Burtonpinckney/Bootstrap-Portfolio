@@ -1,0 +1,15 @@
+.container {
+    background-color: coral;
+    height: 400px;
+    padding: 50px;
+    margin: 15px;
+    margin-left: 75px;
+    margin-top: 50px;
+    width: 45%;
+}
+
+body {
+    background-image: url(Images/MarshLucky.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
