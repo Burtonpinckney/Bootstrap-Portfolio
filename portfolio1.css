@@ -39,7 +39,7 @@ body {
     width: 100%;
     }
 .navbar-brand {
-    background-color: yellow;
+    background-color: aqua;
     padding: 2px;
 }
     
@@ -48,7 +48,7 @@ body {
     margin-top: 35px;
     width: 60%;
     height: 520px;
-    background-color: yellow;
+    background-color: aqua;
     float: left;
     margin-left: 240px;
 }
