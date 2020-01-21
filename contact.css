@@ -1,11 +1,11 @@
 .container {
     background-color: coral;
-    height: 80%;
     padding: 50px;
     margin: 15px;
     margin-left: 75px;
     margin-top: 50px;
-    width: 35%;
+    height: 90%;
+    width: 40%;
     text-align: left;
     text-size-adjust: auto;
 }
